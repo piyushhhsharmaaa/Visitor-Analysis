@@ -34,23 +34,12 @@ o List of topics with top keywords
 * nltk
 * gensim
 
-6. How to Run This Project
-# Create virtual environment (optional)
-python -m venv env
-source env/bin/activate      # On Windows: env\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the analysis script
-python src/preprocessing_and_lda.py
-
-7. Future Improvements
+5. Future Improvements
 * Add topic visualization using pyLDAvis or word clouds
 * Perform sentiment analysis
 * Build dashboard with Tableau or Power BI
 * Deploy as a simple web app (Flask/Streamlit)
 
-8. Author
+6. Author
 Piyush Sharma
 LinkedIn: www.linkedin.com/in/piyushsharmaaa
